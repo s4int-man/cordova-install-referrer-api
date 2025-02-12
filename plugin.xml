@@ -23,6 +23,6 @@
 
         <source-file src="src/android/Referrer.java" target-dir="src/com/github/byorty"/>
 
-        <framework src="com.android.installreferrer:installreferrer:1.0" />
+        <framework src="com.android.installreferrer:installreferrer:2.2" />
     </platform>
 </plugin>
